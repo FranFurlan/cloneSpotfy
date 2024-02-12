@@ -1,0 +1,8 @@
+@media screen and(max-width: 1015px){
+    .offer__list-item{
+        grid-template-columns: 1fr 1fr;
+    }
+    .header__login .subscribe, .header__login, .header__search{
+        width: calc(50% - 20px);
+    }
+}
